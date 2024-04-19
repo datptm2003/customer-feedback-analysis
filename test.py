@@ -21,12 +21,12 @@ tokenizer = AutoTokenizer.from_pretrained("vinai/phobert-base-v2")
 
 texts = [
     "Hàng rất tốt nha, cảm ơn shop.",
-    "Áo tạm được, chất lượng vừa phải",
+    "Quá mỏng",
     "Hàng kém chất lượng, không nên mua",
     "Wow tuyệt quá!",
     "Áo rất mát, mua rất đáng tiền",
     "Phí tiền, khuyên các bạn nên tẩy chay shop.",
-    "Quá xấu",
+    "Áo đẹp nha, mặc rất thoải mái",
     "Màu k giống trong hình,Chất mặc nóng, bí không thấm hút mồ hôi.",
     "Chất da cá ( tiền naoc của đó ).",
     "Quần chưa thử nên không biết có che được không nhưng mình k thích cái viền ren lắm.",

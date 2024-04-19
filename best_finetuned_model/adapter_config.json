@@ -21,9 +21,9 @@
   "revision": null,
   "target_modules": [
     "query",
-    "key",
     "value",
-    "dense"
+    "dense",
+    "key"
   ],
   "task_type": "SEQ_CLS",
   "use_dora": false,
